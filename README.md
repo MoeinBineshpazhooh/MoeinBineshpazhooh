@@ -1,16 +1,38 @@
-## Hi there 👋
+# Moein Bineshpazhooh
 
-<!--
-**MoeinBineshpazhooh/MoeinBineshpazhooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps Engineer | Platform Engineer
 
-Here are some ideas to get you started:
+I am a DevOps / Platform Engineer focused on Kubernetes,
+CI/CD automation, infrastructure automation and observability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Focus
+
+- Kubernetes platform administration
+- Containerization and application modernization
+- GitLab CI/CD automation
+- Infrastructure automation with Ansible
+- Centralized logging and monitoring platforms
+
+## Technologies
+
+### Containers & Orchestration
+Kubernetes, Docker, Helm, Rancher, ArgoCD
+
+### CI/CD
+GitLab CI/CD, GitLab Runner, Docker Registry
+
+### Automation
+Ansible, Bash, Linux Administration
+
+### Observability
+Elasticsearch, Logstash, Kibana, Kafka, Filebeat, Prometheus, Grafana
+
+### Infrastructure
+Linux, VMware, HAProxy, Keepalived
+
+## Current Interests
+
+- Kubernetes Platform Engineering
+- GitOps workflows
+- Infrastructure automation
+- Cloud-native architectures
