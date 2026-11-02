@@ -6,7 +6,6 @@
 
 Building and operating reliable, secure, and observable infrastructure — from Kubernetes platforms and GitOps workflows to CI/CD automation and centralized logging.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoeinBineshpazhooh)
 
 </div>
